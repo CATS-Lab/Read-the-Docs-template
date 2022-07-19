@@ -29,7 +29,7 @@ Some helpful link
    
 .. warning::
 
- Keep this tempate unchanged
+ Keep this template unchanged
 
 
 
