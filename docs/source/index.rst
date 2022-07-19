@@ -28,7 +28,8 @@ Some helpful link
    - rst and sphinx are space sensitive
    
 .. warning::
-Keep this tempate unchanged
+
+ Keep this tempate unchanged
 
 
 
