@@ -27,7 +27,7 @@ Some helpful link
    - Some rst phrase is not allowed in Sphinx structure
    - rst and sphinx are space sensitive
    
-.. Warning::
+.. warning::
 Keep this tempate unchanged
 
 
