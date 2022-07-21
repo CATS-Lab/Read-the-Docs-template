@@ -22,7 +22,7 @@ Some helpful link
 
  `RST & Sphinx Cheat Sheet <https://sphinx-tutorial.readthedocs.io/cheatsheet/#sphinx-cheat-sheet>`_
  
-.. note::
+.. warning::
    
    - Some rst phrase is not allowed in Sphinx structure
    - rst and sphinx are space sensitive
